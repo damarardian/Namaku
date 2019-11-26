@@ -27,3 +27,5 @@ Ctrl + Shift + 7 = Mengubah tampilan menjadi Tiles.
 Ctrl + Shift + 8 = Mengubah tampilan menjadi Content.
 
 pw cisco paket tracer Damarardian1
+
+lorem ipsum color sit amet kondol
