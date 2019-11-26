@@ -1,0 +1,29 @@
+ctrl + m = minimize seluruh tab
+wind + t = pilih icon task  bar
+wind + x = mobile mode(windows vista & 7)
+wind + d = menutup semua tab
+shift + del = menghapus tanpa recycle
+wind + . = menampilkan colom emoticon
+wind + L = log off
+ctrl + shift + T = mengembalikan tab yang di hapus
+ctrl + T = menambah tab baru di browser
+ctrl + w = menghapus tab di browser
+wind + I = membuka pengaturan
+wind + G = membuka game bar
+wind + L = mengunci windows
+wind + space = mengganti bahasa
+
+shortcut file explorer
+
+alt + enter = membuka properties
+ctrl + x = cut
+alt + shift + p = melihat detail file
+Ctrl + Shift + 1 = Ukuran icon ekstra besar.
+Ctrl + Shift + 3 = Ukuran icon menengah.
+Ctrl + Shift + 4 = Ukuran icon kecil.
+Ctrl + Shift + 5 = Mengubah tampilan menjadi List.
+Ctrl + Shift + 6 = Mengubah tampilan menjadi Details.
+Ctrl + Shift + 7 = Mengubah tampilan menjadi Tiles.
+Ctrl + Shift + 8 = Mengubah tampilan menjadi Content.
+
+pw cisco paket tracer Damarardian1
